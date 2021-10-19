@@ -1,0 +1,38 @@
+body {
+    background-color: #f6e5dc;
+    font-family: "Tahoma";
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #2f180c;
+    text-align: center;
+    color: white;
+    height: 60px;
+}
+#left-panel {
+    width: 60%;
+    float: left;
+}
+#right-panel {
+    font-size: 200%;
+    padding: 50px;
+    float: left;
+}
+#bottom-panel {
+    background-color: #d0b6a8;
+    text-align: center;
+    padding: 30px;
+    clear: both;
+}
+footer {
+    background-color: #2f180c;
+    color: white;
+    height: 60px;
+}
+img {
+    height: 400px;
+}
+ul {
+    list-style-type: circle;
+}
